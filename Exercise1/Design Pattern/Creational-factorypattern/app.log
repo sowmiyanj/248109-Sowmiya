@@ -1,0 +1,9 @@
+2025-09-24T09:59:30.599410600 [INFO] Application started
+2025-09-24T09:59:36.934180 [INFO] Created a Car instance
+2025-09-24T09:59:36.934180 [INFO] Driving a car 🚗
+2025-09-24T09:59:48.251414900 [INFO] Created a Bike instance
+2025-09-24T09:59:48.252417300 [INFO] Riding a bike 🏍️
+2025-09-24T09:59:53.964086100 [INFO] Created a Truck instance
+2025-09-24T09:59:53.964735900 [INFO] Driving a truck 🚚
+2025-09-24T09:59:58.739141700 [INFO] Exiting Vehicle Factory Demo.
+2025-09-24T09:59:58.740135900 [INFO] Application finished
